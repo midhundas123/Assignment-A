@@ -20,7 +20,7 @@ Parallel execution
 
 TestNg
 
-Visual Verification using Applitools(Done as part of Assignment A and avilable in main branch)
+Visual Verification using Applitools(Done as part of Assignment A and available in main branch)
 
 webdrivermanager
 
