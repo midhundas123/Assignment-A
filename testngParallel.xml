@@ -7,8 +7,7 @@
   </listeners>
   <test thread-count="2" parallel="classes" name="Test">
     <classes>
-      <class name="com.axelerant.scripts.RegressionTest"/>
-      <class name="com.axelerant.scripts.Applitools"/>
+      <class name="com.axelerant.scripts.APITests"/>
     </classes>
   </test> <!-- Test -->
 
