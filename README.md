@@ -4,7 +4,7 @@
 To Run
 ----------
 
-mvn clean install
+mvn clean install, mvn test
 
 Assignment A is available in main branch and assignment B is available in branch:Assignment-B
 
@@ -26,7 +26,15 @@ webdrivermanager
 
 surefire plugin
 
+REST Assured
+
 Tests added as per Assignment A
+
+Tests added as per Assignment B
+
+
+
+****
 
 
 
