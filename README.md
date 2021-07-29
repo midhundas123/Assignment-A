@@ -4,7 +4,7 @@
 To Run
 ----------
 
-mvn clean install, mvn test
+mvn clean install/ mvn test
 
 Assignment A is available in main branch and assignment B is available in branch:Assignment-B
 
